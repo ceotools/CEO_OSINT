@@ -367,9 +367,9 @@ edit Language.json
 ##
 <br>
 
-## <p align= center>MADE WITH :heart: BY CEO IN :it:</p>
+## <p align= center>MADE By CEO </p>
 
 ## <p align = center>  ORIGINAL CREATOR: <a href = "https://github.com/ceotools">CEO (CEO)</a></p>
 
 
-## <p align = center>LICENSE: GPL-3.0 License <br>COPYRIGHT: (C) 2021-2024
+## <p align = center>LICENSE: GPL-3.0 License <br>COPYRIGHT: (C) 2025-2029
