@@ -34,6 +34,7 @@
 
 # :heavy_check_mark: INSTALLATION LINUX/MAC:
 ```bash
+Sudo su
 git clone https://github.com/ceotools/CEO_OSINT
 cd CEO_OSINT
 sudo apt-get update
@@ -45,6 +46,7 @@ sudo bash install.sh
 # :heavy_check_mark: INSTALLATION LINUX/MAC (Venv Enviroment):
 **if you encounter some errors in the python libraries installation use this method**
 ```bash
+Sudo su
 git clone https://github.com/ceotools/CEO_OSINT
 sudo apt-get update
 cd CEO_OSINT
@@ -78,6 +80,7 @@ Install.cmd
 # :heavy_check_mark: INSTALLATION TERMUX:
 ```bash
 pkg install proot
+Sudo su
 git clone https://github.com/ceotools/CEO_OSINT
 cd CEO_OSINT
 proot -0 chmod +x install_Termux.sh
@@ -97,6 +100,7 @@ proot -0 chmod +x install_Termux.sh
     
 #  USAGE LINUX/MAC(Venv Enviroment):
     cd CEO_OSINT
+    Sudo su
     source .lib_venv/bin/activate
     python3 CEO_OSINT.py
 
@@ -211,8 +215,8 @@ edit Language.json
 <br>
 
 # DEFAULT USERNAME AND PASSWORD:
-    Username:admin
-    Password:admin
+    Username:admin or CEO_OSINT or CEO
+    Password:admin or CEO_OSINT or CEO
 
 <br>
 
