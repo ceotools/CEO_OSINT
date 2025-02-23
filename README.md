@@ -55,6 +55,11 @@ sudo chmod +x install.sh
 sudo bash install.sh
 source .lib_venv/bin/activate
 pip3 install -r requirements.txt
+If error comes, use this vnve commands
+sudo apt install python3-venv
+python3 -m venv myenv
+source myenv/bin/activate
+pip3 install -r requirements.txt
 python3 CEO_OSINT.py
 ```
 <br>
