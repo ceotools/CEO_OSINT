@@ -25,7 +25,7 @@ function Core {
             printf "${GREEN}\n[+]${WHITE}EXECUTING AS ROOT..\n\n"
             sleep 2
             cd ../
-            sudo python3 MrCEO_OSINT.py
+            sudo python3 CEO_OSINT.py
             cd Launchers
         fi
         Main
